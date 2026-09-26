@@ -52,11 +52,11 @@ The dashboard provides insights into BMW sales performance, revenue, quantities,
 
 ### Main Dashboard
 
-![BMW Sales Dashboard](Dashboard cars.png)
+![BMW Sales Dashboard](images/Dashboard%20cars.png)
 
 ### All Cars
 
-![BMW All Cars](all cars.png)
+![BMW All Cars](images/all%20cars.png)
 
 ##  Project Files
 
